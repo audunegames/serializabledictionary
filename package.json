@@ -1,7 +1,7 @@
 {
   "name": "com.audune.utils.dictionary",
   "displayName": "Serializable Dictionary",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "unity": "2022.3",
   "description": "Serializable version of a C# dictionary for use in Unity 2022 LTS or higher.",
   "documentationUrl": "https://github.com/audunegames/serializable-dictionary",
